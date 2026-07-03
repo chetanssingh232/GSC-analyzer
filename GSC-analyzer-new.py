@@ -51,7 +51,7 @@ def analyze(clicks, impressions, ctr, position):
 # -----------------------------
 def dashboard():
 
-    st.title("🚀 SEO Dashboard")
+    st.title("🚀 GSC Data Analyzer")
 
     file = st.file_uploader("Upload Google Search Console CSV", type=["csv"])
 
