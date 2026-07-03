@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="SEO SaaS MVP", layout="wide")
+st.set_page_config(page_title="SEO GSC Analyzer", layout="wide")
 
 
 # -----------------------------
